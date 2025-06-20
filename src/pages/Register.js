@@ -81,9 +81,7 @@ const Register = () => {
           <h1 className="text-2xl font-bold text-violet-700 dark:text-violet-300">Create Your Account</h1>
         </div>
 
-        <p className="text-gray-600 dark:text-gray-300">
-          Book faster and manage your trips easily with Tiket Lakwatsero.
-        </p>
+        <p className="text-gray-600 dark:text-gray-300 text-center">Track your fitness goals in Fitness.io</p>
 
         <form onSubmit={handleSignup} className="space-y-4" noValidate>
           <input
